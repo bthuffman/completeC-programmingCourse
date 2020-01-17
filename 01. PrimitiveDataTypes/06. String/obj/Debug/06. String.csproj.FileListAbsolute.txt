@@ -1,0 +1,6 @@
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\06. String\bin\Debug\_06.String.exe.config
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\06. String\bin\Debug\_06.String.exe
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\06. String\bin\Debug\_06.String.pdb
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\06. String\obj\Debug\06. String.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\06. String\obj\Debug\_06.String.exe
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\06. String\obj\Debug\_06.String.pdb

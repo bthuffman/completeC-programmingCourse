@@ -1,0 +1,6 @@
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\10. StringBuilding\bin\Debug\_10.StringBuilding.exe.config
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\10. StringBuilding\bin\Debug\_10.StringBuilding.exe
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\10. StringBuilding\bin\Debug\_10.StringBuilding.pdb
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\10. StringBuilding\obj\Debug\10. StringBuilding.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\10. StringBuilding\obj\Debug\_10.StringBuilding.exe
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\10. StringBuilding\obj\Debug\_10.StringBuilding.pdb

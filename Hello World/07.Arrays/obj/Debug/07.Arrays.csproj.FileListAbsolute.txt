@@ -1,0 +1,7 @@
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\07.Arrays\bin\Debug\07.Arrays.exe.config
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\07.Arrays\bin\Debug\07.Arrays.exe
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\07.Arrays\bin\Debug\07.Arrays.pdb
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\07.Arrays\obj\Debug\07.Arrays.csproj.CoreCompileInputs.cache
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\07.Arrays\obj\Debug\07.Arrays.exe
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\07.Arrays\obj\Debug\07.Arrays.pdb
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\07.Arrays\obj\Debug\07.Arrays.csprojAssemblyReference.cache

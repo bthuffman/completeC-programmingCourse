@@ -1,0 +1,7 @@
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\02.Integer Data Types\bin\Debug\02.Integer Data Types.exe.config
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\02.Integer Data Types\bin\Debug\02.Integer Data Types.exe
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\02.Integer Data Types\bin\Debug\02.Integer Data Types.pdb
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\02.Integer Data Types\obj\Debug\02.Integer Data Types.csprojAssemblyReference.cache
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\02.Integer Data Types\obj\Debug\02.Integer Data Types.csproj.CoreCompileInputs.cache
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\02.Integer Data Types\obj\Debug\02.Integer Data Types.exe
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\02.Integer Data Types\obj\Debug\02.Integer Data Types.pdb

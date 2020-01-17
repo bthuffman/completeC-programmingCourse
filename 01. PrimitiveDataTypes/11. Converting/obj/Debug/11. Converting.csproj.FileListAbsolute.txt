@@ -1,0 +1,7 @@
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\11. Converting\bin\Debug\_11.Converting.exe.config
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\11. Converting\bin\Debug\_11.Converting.exe
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\11. Converting\bin\Debug\_11.Converting.pdb
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\11. Converting\obj\Debug\11. Converting.csprojResolveAssemblyReference.cache
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\11. Converting\obj\Debug\11. Converting.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\11. Converting\obj\Debug\_11.Converting.exe
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\11. Converting\obj\Debug\_11.Converting.pdb

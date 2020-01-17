@@ -1,0 +1,7 @@
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\08. Tricks with Strings\bin\Debug\_08.Tricks_with_Strings.exe.config
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\08. Tricks with Strings\bin\Debug\_08.Tricks_with_Strings.exe
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\08. Tricks with Strings\bin\Debug\_08.Tricks_with_Strings.pdb
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\08. Tricks with Strings\obj\Debug\08. Tricks with Strings.csprojAssemblyReference.cache
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\08. Tricks with Strings\obj\Debug\08. Tricks with Strings.csproj.CoreCompileInputs.cache
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\08. Tricks with Strings\obj\Debug\_08.Tricks_with_Strings.exe
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\08. Tricks with Strings\obj\Debug\_08.Tricks_with_Strings.pdb

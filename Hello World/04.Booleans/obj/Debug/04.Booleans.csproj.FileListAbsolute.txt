@@ -1,0 +1,7 @@
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\04.Booleans\bin\Debug\04.Booleans.exe.config
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\04.Booleans\bin\Debug\04.Booleans.exe
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\04.Booleans\bin\Debug\04.Booleans.pdb
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\04.Booleans\obj\Debug\04.Booleans.csprojAssemblyReference.cache
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\04.Booleans\obj\Debug\04.Booleans.csproj.CoreCompileInputs.cache
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\04.Booleans\obj\Debug\04.Booleans.exe
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\04.Booleans\obj\Debug\04.Booleans.pdb

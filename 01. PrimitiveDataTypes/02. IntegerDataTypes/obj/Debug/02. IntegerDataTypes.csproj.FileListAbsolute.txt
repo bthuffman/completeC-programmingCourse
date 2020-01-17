@@ -1,0 +1,7 @@
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\02. IntegerDataTypes\bin\Debug\_02.IntegerDataTypes.exe.config
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\02. IntegerDataTypes\bin\Debug\_02.IntegerDataTypes.exe
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\02. IntegerDataTypes\bin\Debug\_02.IntegerDataTypes.pdb
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\02. IntegerDataTypes\obj\Debug\02. IntegerDataTypes.csprojResolveAssemblyReference.cache
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\02. IntegerDataTypes\obj\Debug\02. IntegerDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\02. IntegerDataTypes\obj\Debug\_02.IntegerDataTypes.exe
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\02. IntegerDataTypes\obj\Debug\_02.IntegerDataTypes.pdb

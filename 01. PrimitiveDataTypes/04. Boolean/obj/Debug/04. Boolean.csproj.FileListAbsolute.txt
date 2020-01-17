@@ -1,0 +1,6 @@
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\04. Boolean\bin\Debug\_04.Boolean.exe.config
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\04. Boolean\bin\Debug\_04.Boolean.exe
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\04. Boolean\bin\Debug\_04.Boolean.pdb
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\04. Boolean\obj\Debug\04. Boolean.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\04. Boolean\obj\Debug\_04.Boolean.exe
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\04. Boolean\obj\Debug\_04.Boolean.pdb

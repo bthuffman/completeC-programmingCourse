@@ -1,0 +1,7 @@
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\Variables\bin\Debug\Variables.exe.config
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\Variables\bin\Debug\Variables.exe
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\Variables\bin\Debug\Variables.pdb
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\Variables\obj\Debug\Variables.exe
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\Variables\obj\Debug\Variables.pdb

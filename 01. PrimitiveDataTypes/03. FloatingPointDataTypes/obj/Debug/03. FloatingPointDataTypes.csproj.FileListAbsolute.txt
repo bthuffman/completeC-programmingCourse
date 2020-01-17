@@ -1,0 +1,6 @@
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\03. FloatingPointDataTypes\bin\Debug\_03.FloatingPointDataTypes.exe.config
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\03. FloatingPointDataTypes\bin\Debug\_03.FloatingPointDataTypes.exe
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\03. FloatingPointDataTypes\bin\Debug\_03.FloatingPointDataTypes.pdb
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\03. FloatingPointDataTypes\obj\Debug\03. FloatingPointDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\03. FloatingPointDataTypes\obj\Debug\_03.FloatingPointDataTypes.exe
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\03. FloatingPointDataTypes\obj\Debug\_03.FloatingPointDataTypes.pdb

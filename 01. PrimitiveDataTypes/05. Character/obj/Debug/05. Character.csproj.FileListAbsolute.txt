@@ -1,0 +1,7 @@
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\05. Character\bin\Debug\_05.Character.exe.config
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\05. Character\bin\Debug\_05.Character.exe
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\05. Character\bin\Debug\_05.Character.pdb
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\05. Character\obj\Debug\05. Character.csprojResolveAssemblyReference.cache
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\05. Character\obj\Debug\05. Character.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\05. Character\obj\Debug\_05.Character.exe
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\05. Character\obj\Debug\_05.Character.pdb

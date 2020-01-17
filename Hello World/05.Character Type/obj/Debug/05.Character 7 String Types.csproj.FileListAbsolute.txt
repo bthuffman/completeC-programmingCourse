@@ -1,0 +1,6 @@
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\05.Character Type\bin\Debug\05.Character Type.exe.config
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\05.Character Type\bin\Debug\05.Character Type.exe
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\05.Character Type\bin\Debug\05.Character Type.pdb
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\05.Character Type\obj\Debug\05.Character 7 String Types.csproj.CoreCompileInputs.cache
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\05.Character Type\obj\Debug\05.Character Type.exe
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\05.Character Type\obj\Debug\05.Character Type.pdb

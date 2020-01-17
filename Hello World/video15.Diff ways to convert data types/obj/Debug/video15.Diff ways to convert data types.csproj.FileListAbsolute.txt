@@ -1,0 +1,6 @@
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\video15.Diff ways to convert data types\obj\Debug\video15.Diff ways to convert data types.csproj.CoreCompileInputs.cache
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\video15.Diff ways to convert data types\bin\Debug\video15.Diff ways to convert data types.exe.config
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\video15.Diff ways to convert data types\bin\Debug\video15.Diff ways to convert data types.exe
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\video15.Diff ways to convert data types\bin\Debug\video15.Diff ways to convert data types.pdb
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\video15.Diff ways to convert data types\obj\Debug\video15.Diff ways to convert data types.exe
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\video15.Diff ways to convert data types\obj\Debug\video15.Diff ways to convert data types.pdb

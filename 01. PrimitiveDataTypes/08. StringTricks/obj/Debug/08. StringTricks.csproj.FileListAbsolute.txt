@@ -1,0 +1,7 @@
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\08. StringTricks\bin\Debug\_08.StringTricks.exe.config
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\08. StringTricks\bin\Debug\_08.StringTricks.exe
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\08. StringTricks\bin\Debug\_08.StringTricks.pdb
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\08. StringTricks\obj\Debug\08. StringTricks.csprojResolveAssemblyReference.cache
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\08. StringTricks\obj\Debug\08. StringTricks.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\08. StringTricks\obj\Debug\_08.StringTricks.exe
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\08. StringTricks\obj\Debug\_08.StringTricks.pdb

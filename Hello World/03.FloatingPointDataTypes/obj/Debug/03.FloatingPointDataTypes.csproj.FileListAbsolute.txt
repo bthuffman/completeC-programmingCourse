@@ -1,0 +1,7 @@
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\03.FloatingPointDataTypes\bin\Debug\03.FloatingPointDataTypes.exe.config
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\03.FloatingPointDataTypes\bin\Debug\03.FloatingPointDataTypes.exe
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\03.FloatingPointDataTypes\bin\Debug\03.FloatingPointDataTypes.pdb
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\03.FloatingPointDataTypes\obj\Debug\03.FloatingPointDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\03.FloatingPointDataTypes\obj\Debug\03.FloatingPointDataTypes.exe
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\03.FloatingPointDataTypes\obj\Debug\03.FloatingPointDataTypes.pdb
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\03.FloatingPointDataTypes\obj\Debug\03.FloatingPointDataTypes.csprojAssemblyReference.cache

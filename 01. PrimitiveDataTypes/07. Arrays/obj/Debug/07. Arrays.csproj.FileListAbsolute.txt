@@ -1,0 +1,6 @@
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\07. Arrays\bin\Debug\_07.Arrays.exe.config
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\07. Arrays\bin\Debug\_07.Arrays.exe
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\07. Arrays\bin\Debug\_07.Arrays.pdb
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\07. Arrays\obj\Debug\07. Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\07. Arrays\obj\Debug\_07.Arrays.exe
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\07. Arrays\obj\Debug\_07.Arrays.pdb

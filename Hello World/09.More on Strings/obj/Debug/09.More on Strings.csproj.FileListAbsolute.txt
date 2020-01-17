@@ -1,0 +1,6 @@
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\09.More on Strings\bin\Debug\09.More on Strings.exe.config
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\09.More on Strings\bin\Debug\09.More on Strings.exe
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\09.More on Strings\bin\Debug\09.More on Strings.pdb
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\09.More on Strings\obj\Debug\09.More on Strings.csproj.CoreCompileInputs.cache
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\09.More on Strings\obj\Debug\09.More on Strings.exe
+C:\Users\brandon.huffman\source\repos\Spring 2020\The Complete C# Programming Course\Hello World\09.More on Strings\obj\Debug\09.More on Strings.pdb

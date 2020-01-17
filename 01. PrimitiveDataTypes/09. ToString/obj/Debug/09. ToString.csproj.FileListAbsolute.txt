@@ -1,0 +1,6 @@
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\09. ToString\bin\Debug\_09.ToString.exe.config
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\09. ToString\bin\Debug\_09.ToString.exe
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\09. ToString\bin\Debug\_09.ToString.pdb
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\09. ToString\obj\Debug\09. ToString.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\09. ToString\obj\Debug\_09.ToString.exe
+C:\Users\Darkbound\source\repos\PrimitiveDataTypes\09. ToString\obj\Debug\_09.ToString.pdb
