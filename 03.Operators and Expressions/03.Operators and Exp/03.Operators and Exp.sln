@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27.Arthmetic", "03.Operators and Exp\27.Arthmetic.csproj", "{6DCEC02E-CD02-4773-A3D1-63B1713895C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30.Logical Operators", "30.Logical Operators\30.Logical Operators.csproj", "{CE781766-8E90-44B1-BEE6-BF6619B1B84F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DCEC02E-CD02-4773-A3D1-63B1713895C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCEC02E-CD02-4773-A3D1-63B1713895C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCEC02E-CD02-4773-A3D1-63B1713895C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCEC02E-CD02-4773-A3D1-63B1713895C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE781766-8E90-44B1-BEE6-BF6619B1B84F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE781766-8E90-44B1-BEE6-BF6619B1B84F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE781766-8E90-44B1-BEE6-BF6619B1B84F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE781766-8E90-44B1-BEE6-BF6619B1B84F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85124D4C-AE56-45B7-8417-1DE66D571D2C}
+	EndGlobalSection
+EndGlobal
