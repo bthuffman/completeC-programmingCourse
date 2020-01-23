@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.28307.1000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.WriteAndWriteLine", "01.WriteAndWriteLine\01.WriteAndWriteLine.csproj", "{56509FCE-DAD8-4B9B-A2A0-0F144CEF5C53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge", "Challenge\Challenge.csproj", "{450AD642-B944-4F3E-8567-97A0069D427A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19. Chal - 22", "Challenge\19. Chal - 22.csproj", "{450AD642-B944-4F3E-8567-97A0069D427A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23.ChangingTheColor", "23.ChangingTheColor\23.ChangingTheColor.csproj", "{987EA0B3-F46A-47EE-A5D0-844D30B21E49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{450AD642-B944-4F3E-8567-97A0069D427A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{450AD642-B944-4F3E-8567-97A0069D427A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{450AD642-B944-4F3E-8567-97A0069D427A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{987EA0B3-F46A-47EE-A5D0-844D30B21E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987EA0B3-F46A-47EE-A5D0-844D30B21E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987EA0B3-F46A-47EE-A5D0-844D30B21E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987EA0B3-F46A-47EE-A5D0-844D30B21E49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

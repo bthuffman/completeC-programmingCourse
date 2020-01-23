@@ -63,5 +63,40 @@ class Program
         int age3 = int.Parse(Console.ReadLine()); //enter fifteen and won't work. It will only work if use numbers
         Console.WriteLine($"My age is {age3 + 1}");
 
+        //To get a chance for a second input you should use Console.ReadLine or to move the Console.Read method to be last. 
+
+        int age4 = int.Parse(Console.ReadLine());
+        Console.WriteLine($"My age is {age4 + 1}");
+
+
+        //SUMMARY Readline reads a sequence of chars (str). 
+        //use int.Parse or Convert.ToInt32 to turn str into int
+        //Caution for using Read, should use ReadLine
+
+        ////////////////////////////////////////////////////////////////////////////////////
+        ///Accepting Inputs as Keys from the Console - ReadKey
+        
+        //ReadKey's are custom datatypes, not string or character
+        ConsoleKeyInfo key = Console.ReadKey();
+
+        //This will return the namespace of and the datatype of key. 
+        Console.WriteLine(key);
+
+        //To see what key was pressed use key.Key
+        Console.WriteLine(key.Key);
+
+
+        //Read will be activated after you click enter. Whereas ReadKey is being activated as soon as you press the key. 
+        ConsoleKeyInfo key1 = Console.ReadKey();
+
+        //to obtain actual character with case sensitivity then use key.KeyChar
+        Console.WriteLine(key1.KeyChar);
+
+        //save key as char if want to. 
+
+        //Key modifiers, will show the modifiers being uses with the corresponding key. This will display in a predefined order rather than the order in which you pressed them.
+        Console.WriteLine(key1.Modifiers);
+
+
     }
 }
