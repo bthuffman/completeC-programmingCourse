@@ -133,8 +133,9 @@ class Program
         ///31. Ternary Operator - The most basic conditional statement
 
         // expression ? if true this result : if false this result;
+        //Note the values returned must be of the same type as the variable to which they are going to be assigned. 
 
-        var isRigged = true;
+        var isRigged = false;
 
         string electionOutcome = isRigged ? "Time to leave the US!" : "It's a safe place for gays";
         Console.WriteLine("//////////////////////////////////////////////////////////////////////");
